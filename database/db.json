@@ -1,0 +1,46 @@
+{
+    "productos": [
+      {
+        "name": "Nintendo Switch",
+        "price": "280.00",
+        "imagen": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/consola-nintendo-switch-neon-47030-default-1.jpg",
+        "id": 2
+      },
+      {
+        "name": "Joystick, Mando Bluetooth",
+        "price": "69.00",
+        "imagen": "https://handsup.com.pe/wp-content/uploads/2021/01/IMG_7517.jpg",
+        "id": 3
+      },
+      {
+        "name": "Nintendo Switch Oled",
+        "price": "980.00",
+        "imagen": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43117571_1/w=800,h=800",
+        "id": 4
+      },
+      {
+        "name": "Nintendo Sup",
+        "price": "74",
+        "imagen": "https://gadgetsandfunmx.com/api/fileApi/images/123/3/consolaroja.jpg",
+        "id": 5
+      },
+      {
+        "name": "Consola G5 mini retro",
+        "price": "128",
+        "imagen": "https://handsup.com.pe/wp-content/uploads/2022/03/MCG5R.jpg",
+        "id": 6
+      },
+      {
+        "name": "Mini consola 8 Bits",
+        "price": "78",
+        "imagen": "https://gadgetsandfunmx.com/api/fileApi/images/123/3/consola_8_bits_1.jpg",
+        "id": 7
+      },
+      {
+        "name": "Consola Anbernic RG353PS",
+        "price": "649.00",
+        "imagen": "https://jotastore.pe/wp-content/uploads/2023/11/Consola-Anbernic-RG353PS-White1.jpg",
+        "id": 8
+      }
+    ]
+  }
