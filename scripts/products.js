@@ -1,5 +1,5 @@
-import { conexionApi } from "./conexionApi.js";
-import { accionFormulario } from "./accionFormulario.js";
+import { conexionApi } from "./serverAPI.js";
+import { accionFormulario } from "./form.js";
 
 const lista = document.querySelector("[data-cards-productos]");
 const elFormulario = document.querySelector("[data-formulario]");
