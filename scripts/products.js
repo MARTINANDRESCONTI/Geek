@@ -15,7 +15,7 @@ function crearProducto(name, price, imagen, id) {
         <div class="card-container--value">
             <p>s/${price}</p>
             <button class="delete-button" data-id="${id}">
-                <img src="imagenes/trash-can.png" alt="eliminar" />
+                <img src="img/trash.png" alt="eliminar" />
             </button>
         </div>`;
 
